@@ -75,7 +75,7 @@
     {{ end }}
     <li>
       <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}"
-         {{ with .label }} data-toggle="tooltip" data-placement="top" title="{{.}}"{{ end }}>
+         {{ with .label }} data-toggle="tooltip" data-placement="bottom" title="{{.}}"{{ end }}>
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
       </a>
     </li>
@@ -83,7 +83,7 @@
   </ul>
 
   {{ with ($block.content.text | emojify | markdownify) | default $person_page.Content }}
-  <div class="article-style pt-2 d-flex justify-content-center">
+  <div class="article-style pt-2 d-flex justify-content: space-between">
     <div class="bio-text">
       {{ . }}
     </div>

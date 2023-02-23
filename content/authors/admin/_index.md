@@ -1,5 +1,5 @@
 ---
-bio: My research interests include data visualization, statistical analysis, and advanced data science topics.
+bio: My research interests include data visualization, statistical analysis, and communicating scientific ideas.
 education:
   courses:
   - course: PhD in Social Psychology
@@ -8,21 +8,19 @@ education:
   - course: MA in Social Psychology
     institution: San Francisco State University
     year: 2016
-  - course: BS in Chemistry
-    institution: University of North Texas
-    year: 2013
 email: "slieber@uoregon.edu"
 first_name: Sara
 highlight_name: true
 interests:
+- Data Analysis in R
 - Data Visualization
-- Statistical Analysis
-- Communicating Ideas
+- Statistical Modeling
+- Communicating Scientific Ideas
 last_name: Lieber
 organizations:
-- name: University of Oregon, Psychology Department
+- name: Psychology Department at the University of Oregon
   url: https://psychology.uoregon.edu/
-role: Data Analyst
+role: Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,14 +42,7 @@ superuser: true
 title: Sara Lieber
 ---
 
-I'm a current PhD candidate in the [social psychology program](https://psychology.uoregon.edu/) at the University of Oregon.
+I'm a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research focuses on using [psychological interventions to promote environmentally-responsible consumer behaviors](https://saralieb.
 
-# Interests
-* Data Visualization
-* Statistical Analyses
-* Simplifying complex ideas
 
-# Education
-* PhD in Social Psychology, University of Oregon, expected Summer 2023
-* MS in Psychology, San Francisco State University, 2016
 {style="text-align: justify;"}
