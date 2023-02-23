@@ -17,25 +17,18 @@ highlight_name: true
 interests:
 - Data Visualization
 - Statistical Analysis
-- Advanced Data Science Techniques
+- Communicating Ideas
 last_name: Lieber
 organizations:
 - name: University of Oregon, Psychology Department
   url: https://psychology.uoregon.edu/
-role: PhD Candidate
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
   link: https://github.com/sluopsy
@@ -46,10 +39,10 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 status:
-  icon: ☕️
+  icon: 
 superuser: true
-title: Sara Lieber, M.A.
+title: Sara Lieber
 ---
 
-I'm a current PhD candidate in the social psychology program at the University of Oregon. 
+I'm a current PhD candidate in the [social psychology program](https://psychology.uoregon.edu/) at the University of Oregon.  
 {style="text-align: justify;"}
