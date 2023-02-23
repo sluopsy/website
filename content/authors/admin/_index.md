@@ -44,5 +44,14 @@ superuser: true
 title: Sara Lieber
 ---
 
-I'm a current PhD candidate in the [social psychology program](https://psychology.uoregon.edu/) at the University of Oregon.  
+I'm a current PhD candidate in the [social psychology program](https://psychology.uoregon.edu/) at the University of Oregon.
+
+# Interests
+* Data Visualization
+* Statistical Analyses
+* Simplifying complex ideas
+
+# Education
+* PhD in Social Psychology, University of Oregon, expected Summer 2023
+* MS in Psychology, San Francisco State University, 2016
 {style="text-align: justify;"}
