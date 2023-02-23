@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: saralieb.netlify.app/sitemap.xml
+Sitemap: https://saralieb.netlify.app/sitemap.xml
