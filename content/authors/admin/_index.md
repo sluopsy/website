@@ -12,6 +12,7 @@ email: "slieber@uoregon.edu"
 first_name: Sara
 highlight_name: true
 interests:
+- Psychological Interventions 
 - Data Analysis in R
 - Data Visualization
 - Statistical Modeling
@@ -42,7 +43,7 @@ superuser: true
 title: Sara Lieber
 ---
 
-I'm a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research focuses on using [psychological interventions to promote environmentally-responsible consumer behaviors](https://saralieb.
+I'm a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research focuses on using [psychological interventions to promote environmentally-responsible consumer behaviors](https://github.com/sluopsy/website/raw/main/content/project/Dissertation%20Proposal.pdf). I have been teaching undergraduate- and graduate-level statistics courses for nine years. 
 
 
 {style="text-align: justify;"}
