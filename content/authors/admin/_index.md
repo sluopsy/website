@@ -43,7 +43,9 @@ superuser: true
 title: Sara Lieber
 ---
 
-I'm a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research focuses on using [psychological interventions to promote environmentally-responsible consumer behaviors](https://github.com/sluopsy/website/raw/main/content/project/Dissertation%20Proposal.pdf). I have been teaching undergraduate- and graduate-level statistics courses for nine years. 
+I'm a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research focuses on using [psychological interventions](https://github.com/sluopsy/website/raw/main/content/project/promoting_consumer_behaviors.pdf) to promote environmentally-responsible consumer behaviors. I have been teaching undergraduate- and graduate-level statistics courses for nine years. I enjoy giving presentations on [data visualization](https://uopsych.github.io/psy611_2021/labs/lab-6.html), [network analysis](https://github.com/sluopsy/website/raw/main/content/project/An%20Introduction%20to%20Network%20Analysis%20-%20Lecture.pdf), and [machine learning](https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html).
+
+I'm very interested in contributing to the betterment of science by participating in [Open Science](https://www.cos.io/about/mission) practices. This means pre-registering study methodologies and hypotheses ([here](https://osf.io/zg2a5/) and [here](https://osf.io/58rh7/)) and making [analyses](https://github.com/sluopsy) available.
 
 
 {style="text-align: justify;"}
