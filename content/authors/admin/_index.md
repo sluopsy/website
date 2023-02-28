@@ -36,7 +36,7 @@ social:
   link: https://www.linkedin.com/in/sara-lieber-a2811a16b/
 - icon: cv
   icon_pack: ai
-  link: resume/resume_pagedown.html
+  link: project/resume/resume_pagedown.html
 status:
   icon: 
 superuser: true
