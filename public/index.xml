@@ -33,6 +33,100 @@
     </item>
     
     <item>
+      <title>Sara Lieber&#39;s Resume</title>
+      <link>https://saralieb.netlify.app/project/resume/resume_pagedown/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://saralieb.netlify.app/project/resume/resume_pagedown/</guid>
+      <description>&lt;h1 id=&#34;aside&#34;&gt;Aside&lt;/h1&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact Info&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:slieber@uoregon.edu&#34;&gt;slieber@uoregon.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/sluopsy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/sluopsy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;fa fa-linkedin&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.linkedin.com/in/sara-lieber-a2811a16b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/sara-lieber-a2811a16b/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Describing data&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Data analysis in R&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Testing psychological interventions&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Communicating scientific ideas&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;This resume was made with the R package &lt;a href=&#34;https://github.com/rstudio/pagedown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;pagedown&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Last updated on 2023-02-28.&lt;/p&gt;
+&lt;h1 id=&#34;main&#34;&gt;Main&lt;/h1&gt;
+&lt;h2 id=&#34;title&#34;&gt;Sara Lieber&lt;/h2&gt;
+&lt;p&gt;I’m a PhD student in the &lt;a href=&#34;https://psychology.uoregon.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Social Psychology Program&lt;/a&gt; at the University of Oregon. My research focuses on using psychological interventions to promote environmentally-responsible consumer behaviors. I have a passion for using data analysis to organize empirical information in ways that give us insights into the world.&lt;/p&gt;
+&lt;h2 data-icon=&#34;graduation-cap&#34; data-concise=&#34;true&#34; id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;phd-social-psychology-expected-summer-2023&#34;&gt;PhD, Social Psychology, expected Summer 2023&lt;/h3&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;p&gt;Eugene, OR&lt;/p&gt;
+&lt;p&gt;2016-2023&lt;/p&gt;
+&lt;h3 id=&#34;ma-social-psychology&#34;&gt;MA, Social Psychology&lt;/h3&gt;
+&lt;p&gt;San Francisco State University&lt;/p&gt;
+&lt;p&gt;San Francisco, CA&lt;/p&gt;
+&lt;p&gt;2014-2016&lt;/p&gt;
+&lt;h3 id=&#34;bs-chemistry&#34;&gt;BS, Chemistry&lt;/h3&gt;
+&lt;p&gt;University of North Texas&lt;/p&gt;
+&lt;p&gt;Denton, TX&lt;/p&gt;
+&lt;p&gt;2009-2013&lt;/p&gt;
+&lt;h2 data-icon=&#34;laptop&#34; id=&#34;selected-positions&#34;&gt;Selected Positions&lt;/h2&gt;
+&lt;h3 id=&#34;research-scientist&#34;&gt;Research Scientist&lt;/h3&gt;
+&lt;p&gt;Advisor: Dr. Gerard Saucier&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;p&gt;2016-2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examined how psychological interventions can best be applied to promote environmentally-responsible consumer behaviors&lt;/li&gt;
+&lt;li&gt;Conducted all aspects of the independent research process, including pre-registration, development of methods and analysis plans, and literature reviews&lt;/li&gt;
+&lt;li&gt;Used various statistical analysis tools, incl. regression and classification methods, principal components analysis, and multilevel modeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graduate-statistics-instructor&#34;&gt;Graduate Statistics Instructor&lt;/h3&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;p&gt;Eugene, OR&lt;/p&gt;
+&lt;p&gt;2018-2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taught R language to introductory audiences&lt;/li&gt;
+&lt;li&gt;Covered topics incl. data cleaning, data visualization, regression analyses &amp;amp; diagnostics, bootstrapping, network analysis, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;undergraduate-statistics-instructor&#34;&gt;Undergraduate Statistics Instructor&lt;/h3&gt;
+&lt;p&gt;San Francisco State University&lt;/p&gt;
+&lt;p&gt;San Francisco, CA&lt;/p&gt;
+&lt;p&gt;2014-2016&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taught SPSS to introductory audiences&lt;/li&gt;
+&lt;li&gt;Explained statistical concepts in ways that were easy to understand for large audiences&lt;/li&gt;
+&lt;li&gt;Covered topics incl. describing data, hypothesis testing, t-tests, ANOVA, regression analyses, interpreting interactions, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 data-icon=&#34;chalkboard-teacher&#34; id=&#34;sample-lessons&#34;&gt;Sample Lessons&lt;/h2&gt;
+&lt;h3 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h3&gt;
+&lt;p&gt;Basics of data visualization using the &lt;code&gt;ggplot2&lt;/code&gt; package in &lt;code&gt;R&lt;/code&gt;. See sample lesson &lt;a href=&#34;https://uopsych.github.io/psy611_2021/labs/lab-6.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h3 id=&#34;regression-diagnostics&#34;&gt;Regression Diagnostics&lt;/h3&gt;
+&lt;p&gt;How to perform regression diagnostics when using multiple linear regression analyses. See sample lesson &lt;a href=&#34;https://uopsych.github.io/psy612/labs/lab-6/lab-6.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h3 id=&#34;network-analysis&#34;&gt;Network Analysis&lt;/h3&gt;
+&lt;p&gt;Fundamental concepts related to performing network analyses on community data. See sample lesson &lt;a href=&#34;https://github.com/sluopsy/website/raw/main/content/project/An%20Introduction%20to%20Network%20Analysis%20-%20Lecture.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h3 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h3&gt;
+&lt;p&gt;Basics of machine learning analyses, including the concepts of overfitting, cross-validation, and regression &amp;amp; classification learning methods. See sample lesson &lt;a href=&#34;https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h2 data-icon=&#34;file&#34; id=&#34;selected-presentations&#34;&gt;Selected Presentations&lt;/h2&gt;
+&lt;h3 id=&#34;an-analysis-of-a-social-psychology-approach-to-improving-pro-environmental-behaviors&#34;&gt;An Analysis of a Social Psychology Approach to Improving Pro-environmental Behaviors&lt;/h3&gt;
+&lt;p&gt;Performed a literature review of currently used social psychology methods for promoting pro-environmental behaviors. Identified areas for potential improvements and suggested future changes that could improve their efficacy. See presentation &lt;a href=&#34;https://github.com/sluopsy/website/raw/main/content/project/Prelim%20Presentation.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h3 id=&#34;perspective-taking-motivation-and-impediment-to-shared-reality&#34;&gt;Perspective Taking: Motivation and Impediment to Shared Reality&lt;/h3&gt;
+&lt;p&gt;An analysis of the connection between perspective taking and the concept of shared reality. See paper &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2352250X1730266X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h3 id=&#34;unpopular-norms-among-undergraduate-students&#34;&gt;Unpopular Norms Among Undergraduate Students&lt;/h3&gt;
+&lt;p&gt;An examination of the peculiar phenomenon of unpopular norms among undergraduate students. See presentation &lt;a href=&#34;https://github.com/sluopsy/website/raw/main/content/project/wpa_unpopular_norms.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Oregon&lt;/p&gt;
+&lt;h3 id=&#34;weak-emission-line-quasars-in-the-context-of-a-modified-baldwin-effect&#34;&gt;Weak Emission-Line Quasars in the Context of a Modified Baldwin Effect&lt;/h3&gt;
+&lt;p&gt;An empirical examination of the properties of weak emission-line quasars, which are high-energy objects that existed in the early universe. See paper &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/0004-637X/805/2/124&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of North Texas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://saralieb.netlify.app/post/teaching/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
