@@ -32,10 +32,9 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-* <b>Describing data</b>
-* <b>Data analysis in R</b>
-* <b>Testing psychological interventions</b>
-* <b>Communicating scientific ideas</b>
+* <b>Communicating Scientific Ideas</b>
+* <b>Developing Psychological Interventions</b>
+* <b>Performing Data Analysis in R</b>
 
 
 Disclaimer {#disclaimer}
@@ -53,7 +52,7 @@ Main
 Sara Lieber {#title}
 --------------------------------------------------------------------------------
 
-I’m a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research focuses on using psychological interventions to promote environmentally-responsible consumer behaviors. I have a passion for using data analysis to organize empirical information in ways that give us insights into the world. 
+I’m a PhD student in the [Social Psychology Program](https://psychology.uoregon.edu/) at the University of Oregon. My research currently focuses on how psychological interventions can be used to promote environmentally-responsible consumer behaviors. I have a passion for teaching statistics to all audiences in a way that is accessible and easy to understand. I am fascinated with the ways that data analysis can help us gain better insights into the world. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -87,7 +86,7 @@ Denton, TX
 Selected Positions {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Research Scientist
+### Graduate Research Scientist
 
 Advisor: Dr. Gerard Saucier
 
@@ -95,9 +94,9 @@ University of Oregon
 
 2016-2023
 
-- Examined how psychological interventions can best be applied to promote environmentally-responsible consumer behaviors
-- Conducted all aspects of the independent research process, including pre-registration, development of methods and analysis plans, and literature reviews
-- Used various statistical analysis tools, incl. regression and classification methods, principal components analysis, and multilevel modeling
+- Developed and tested psychological interventions aimed at promoting environmentally-responsible consumption
+- Conducted all aspects of the independent research process (e.g., literature review, pre-registration, development of methods and analysis plans, data analysis, and reporting results) 
+- Used various statistical analysis tools, incl. descriptive statistics, multiple regression, regression diagnostics, confirmatory & exploratory factor analysis, and unpacking interaction effects 
 
 ### Graduate Statistics Instructor
 
@@ -107,8 +106,8 @@ Eugene, OR
 
 2018-2023
 
-- Taught R language to introductory audiences
-- Covered topics incl. data cleaning, data visualization, regression analyses & diagnostics, bootstrapping, network analysis, and more
+- Taught R language to graduate-level audiences
+- Covered topics incl. data cleaning, data visualization, regression analyses & diagnostics, interpreting interactions, bootstrapping, multilevel modeling, network analysis, and more
 
 ### Undergraduate Statistics Instructor
 
@@ -118,9 +117,9 @@ San Francisco, CA
 
 2014-2016
 
-- Taught SPSS to introductory audiences
-- Explained statistical concepts in ways that were easy to understand for large audiences 
-- Covered topics incl. describing data, hypothesis testing, t-tests, ANOVA, regression analyses, interpreting interactions, and more
+- Taught SPSS to undergraduate-level audiences
+- Explained statistical concepts in ways that were easy to understand for introductory audiences 
+- Covered topics incl. describing data, sampling distributions, hypothesis testing, independent- and paired-samples t-tests, between- and repeated-measures ANOVA, correlations, regression, and more
 
 
 Sample Lessons {data-icon=chalkboard-teacher}

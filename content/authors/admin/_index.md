@@ -1,5 +1,5 @@
 ---
-bio: My research interests include data visualization, statistical analysis, and communicating scientific ideas.
+bio: My skills include testing psychological interventions, describing data, statistical analysis, and communicating scientific ideas.
 education:
   courses:
   - course: PhD in Social Psychology

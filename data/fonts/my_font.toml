@@ -1,0 +1,9 @@
+# Font style metadata
+name = "My custom font"
+
+
+# Font families
+heading_font = "Source Serif Pro"
+body_font = "Source Serif Pro"
+nav_font = "Source Serif Pro"
+mono_font = "Source Serif Pro"
