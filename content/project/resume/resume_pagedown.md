@@ -122,31 +122,78 @@ San Francisco, CA
 - Covered topics incl. describing data, sampling distributions, hypothesis testing, independent- and paired-samples t-tests, between- and repeated-measures ANOVA, correlations, regression, and more
 
 
+Teaching Experience {data-icon=chalkboard}
+--------------------------------------------------------------------------------
+
+### Graduate Data Analysis (PSY 611/612/613)
+
+* Lab Instructor: Fall 2018, Winter 2019, Winter 2021, Fall 2021, Spring 2022, Winter 2023
+
+University of Oregon
+
+
+### Statistical Methods (PSY 302)
+
+* Primary Instructor: Summer 2018-2022
+* Lab Instructor: Winter 2016, Spring 2019, Spring 2021, Winter 2022
+
+University of Oregon
+
+
+### Applied Data Analysis (PSY 412/512)
+
+* Lab Instructor: Fall 2017, Fall 2020, Fall 2022
+
+University of Oregon
+
+
+### Quantitative Reasoning (PSY 171)
+
+* Primary Instructor: Fall 2015, Spring 2016
+
+San Francisco State University
+
+
+### Psychological Statistics (PSY 371)
+
+* Lab Instructor: Fall 2014
+
+San Francisco State University
+
+
 Sample Lessons {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
+### Sampling Distributions
+
+Introduced concepts of sampling error, a sampling distribution, and central limit theorem. Taught in Summer 2021 to an undergraduate-level audience. See sample lesson [here](https://github.com/sluopsy/website/raw/main/content/project/sample-lectures/4%20-%20Sampling%2C%20Confidence%20Intervals%20-%20for%20Canvas.pdf).
+
+### One-Way ANOVA
+
+Lesson on how to conduct a between-subjects, one-way ANOVA, including post-hoc test and writing an APA style summary. Taught in Summer 2021 to an undergraduate-level audience. See sample lesson [here](https://github.com/sluopsy/website/raw/main/content/project/sample-lectures/9%20-%20Between-Subjects%20One-Way%20ANOVA%20-%20for%20Canvas.pdf).
+
 ### Data Visualization
 
-Basics of data visualization using the `ggplot2` package in `R`. See sample lesson [here](https://uopsych.github.io/psy611_2021/labs/lab-6.html).
+Basics of data visualization using the `ggplot2` package in `R`. Taught in Fall 2021 to a graduate-level audience. See sample lesson [here](https://uopsych.github.io/psy611_2021/labs/lab-6.html).
 
 University of Oregon
 
 ### Regression Diagnostics
 
-How to perform regression diagnostics when using multiple linear regression analyses. See sample lesson [here](https://uopsych.github.io/psy612/labs/lab-6/lab-6.html).
+How to perform regression diagnostics when using multiple linear regression analyses. Taught in Winter 2021 to a graduate-level audience. See sample lesson [here](https://uopsych.github.io/psy612/labs/lab-6/lab-6.html).
 
 University of Oregon
 
 ### Network Analysis
 
-Fundamental concepts related to performing network analyses on community data. See sample lesson [here](https://github.com/sluopsy/website/raw/main/content/project/An%20Introduction%20to%20Network%20Analysis%20-%20Lecture.pdf).
+Fundamental concepts related to performing network analyses on community data. Taught in Spring 2022 to a graduate-level audience. See sample lesson [here](https://github.com/sluopsy/website/raw/main/content/project/An%20Introduction%20to%20Network%20Analysis%20-%20Lecture.pdf).
 
 University of Oregon
 
 
 ### Machine Learning
 
-Basics of machine learning analyses, including the concepts of overfitting, cross-validation, and regression & classification learning methods. See sample lesson [here](https://robchavez.github.io/datascience_gallery/html_only/machine_learning_basics.html).
+Basics of machine learning analyses, including the concepts of overfitting, training vs testing set, cross-validation, and regression learning methods. Taught in Winter 2023 to a graduate-level audience. See sample lesson [here](https://uopsych.github.io/psy612/labs/lab-10/lab-10.html).
 
 University of Oregon
 
